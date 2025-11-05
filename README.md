@@ -30,26 +30,6 @@ RoomieMatch is a modern web application that uses intelligent algorithms to conn
 5. **Find Housing**: Browse room listings or list your own space
 6. **Move In**: Connect with your perfect roommate match!
 
-   ## 🏗️ Development Roadmap
-
-### Phase 1 ✅
-- [x] User authentication system
-- [x] Profile creation and management
-- [x] Basic matching algorithm
-- [x] Messaging system UI
-
-### Phase 2 🚧 (In Progress)
-- [ ] Backend API integration
-- [ ] Real-time messaging functionality
-- [ ] Advanced matching algorithms
-- [ ] Room listing features
-
-### Phase 3 📋 (Planned)
-- [ ] Video calling integration
-- [ ] Mobile app development
-- [ ] Payment integration for room bookings
-- [ ] Advanced user verification
-
 ## 👥 Team
 
 | Name | GitHub |
