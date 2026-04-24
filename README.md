@@ -1,34 +1,76 @@
-# 🏠 RoomieMatch
+# 🏠 RoomieMatch – Roommate Matching Platform
 
-**The AI-Powered Roommate Matching Platform**
+> 🔹 This is a team project developed collaboratively.
 
-RoomieMatch is a modern web application that uses intelligent algorithms to connect compatible roommates based on lifestyle preferences, location, and personal compatibility scores. Built for students looking for their perfect living companion.
+RoomieMatch is a web application designed to help users find compatible roommates based on lifestyle preferences, location, and personal compatibility factors. The project focuses on creating an intuitive user interface and structured user flow for roommate discovery.
 
-## ✨ Features
+---
 
-- 🧠 **AI-Powered Matching**: Smart algorithm matches roommates based on 50+ compatibility factors
-- 💬 **Real-time Messaging**: Secure chat system with read receipts and typing indicators  
-- 📍 **Location-Based Search**: Find roommates in your preferred neighborhoods
-- ✅ **Verified Profiles**: Enhanced safety with profile verification system
-- 🏡 **Room Listings**: Browse and list available rooms and apartments
-- ⚡ **Deal Breakers**: Set non-negotiables to filter incompatible matches
-- 🛡️ **Privacy Focused**: Secure data handling and user privacy protection
-- 📱 **Responsive Design**: Seamless experience across all devices
+## 🚀 Live Demo
 
-  ## 🚀 Live Demo
+👉 https://roomie-match-chi.vercel.app/
 
-🌐 **[View Live Demo](https://roomie-match-chi.vercel.app/)** *(Currently in development)*
+---
 
-🔗 **[RoomieMatch Backend](https://github.com/alok-psr/roomieBackend)** 
+## 🧠 Core Features
 
-## 🎯 Usage
+### 🤝 Roommate Matching Interface
+- Designed UI for discovering potential roommates  
+- Displays user profiles with key preference details  
 
-1. **Sign Up**: Create your profile with lifestyle preferences
-2. **Get Matched**: Our AI algorithm finds compatible roommates
-3. **Browse Profiles**: View compatibility scores and user details
-4. **Start Chatting**: Message potential roommates securely
-5. **Find Housing**: Browse room listings or list your own space
-6. **Move In**: Connect with your perfect roommate match!
+### 📍 Location-Based Discovery
+- Users can explore roommates based on preferred locations  
+- Structured layout for easy browsing  
+
+### 💬 Messaging UI (Frontend)
+- Chat interface for user interaction  
+- Designed for real-time communication (backend integration pending)  
+
+### 🏡 Room Listings
+- Interface for browsing and posting available rooms  
+- Supports housing + roommate discovery flow  
+
+### 🔐 Authentication Pages
+- Login and Sign-up UI implemented  
+- Clean and responsive form design  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **State Management:** React Hooks  
+- **Deployment:** Vercel  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+<img src="https://github.com/user-attachments/assets/your-landing-image" width="100%" />
+
+### 🔐 Login Page
+<img src="https://github.com/user-attachments/assets/your-login-image" width="100%" />
+
+---
+
+## ⚠️ Current Limitations
+
+- Full navigation between pages is under development  
+- Backend integration for matching and messaging is pending  
+- Some interactive features are not fully functional yet  
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/<your-username>/roomiematch.git
+cd roomiematch
+npm install
+npm run dev
+
+```
 
 ## 👥 Team
 
@@ -38,6 +80,21 @@ RoomieMatch is a modern web application that uses intelligent algorithms to conn
 | NISHTHA | [@NISHTHA-github](https://github.com/nishthaasood) | 
 | MANSI |  [@MANSI-github](https://github.com/mansibhandarilab) |
 | AAKRITI | [@AAKRITI-github](https://github.com/Aakriti0207) | 
+
+
+🚀 My Contribution
+Built responsive UI components using React and Tailwind CSS
+Designed landing page, authentication pages, and user flow
+Implemented layout for roommate discovery and listings
+Contributed to overall frontend structure and styling
+
+
+💡 Future Improvements
+Backend integration for matching algorithm
+Real-time messaging functionality
+Improved mobile responsiveness
+Profile image upload support
+Persistent user data and authentication
 
       ## 🤝 Contributing
 
