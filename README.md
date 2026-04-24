@@ -47,10 +47,12 @@ RoomieMatch is a web application designed to help users find compatible roommate
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-<img src="https://github.com/user-attachments/assets/your-landing-image" width="100%" />
+<img width="1919" height="910" alt="ae7b5a78-0f18-4869-8f00-de0dbdadadde" src="https://github.com/user-attachments/assets/a59e14b4-8b40-424e-9002-53b6eb96ab78" />
+
 
 ### 🔐 Login Page
-<img src="https://github.com/user-attachments/assets/your-login-image" width="100%" />
+<img width="1919" height="919" alt="7fdc44e4-d9ff-4461-a760-8f0a8423de76" src="https://github.com/user-attachments/assets/17b7ecd0-dcd3-4d0c-a6dd-4fe277dc073d" />
+
 
 ---
 
@@ -65,7 +67,7 @@ RoomieMatch is a web application designed to help users find compatible roommate
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/<your-username>/roomiematch.git
+git clone https://github.com/Aakriti0207/roomiematch.git
 cd roomiematch
 npm install
 npm run dev
